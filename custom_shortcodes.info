@@ -1,0 +1,3 @@
+name = Custom Shortcodes
+description = Sets up a custom filter that enables custom shortcodes.
+core = 7.x
